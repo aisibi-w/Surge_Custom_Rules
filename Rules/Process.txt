@@ -19,3 +19,9 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,/Applications/Plex Media Server.app/Contents/MacOS/Plex Media Server
 PROCESS-NAME,/Applications/eMuleTorrent.app/Contents/MacOS/eMuleTorrent
+DOMAIN-KEYWORD,uhdgo,DIRECT
+DOMAIN-KEYWORD,uhdnow,DIRECT
+DOMAIN-SUFFIX,flurry.com,DIRECT
+DOMAIN-SUFFIX,seagm.com,DIRECT
+DOMAIN-SUFFIX,bugsnag.com,DIRECT
+DOMAIN,mask-h2.icloud.com,DIRECT
