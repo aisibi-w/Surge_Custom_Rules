@@ -1,5 +1,7 @@
-.rutracker.org
-.philo.com
-.just-dance.com
-.userscontent.net
-.hhneko.xyz
+DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,philo.com
+DOMAIN-SUFFIX,just-dance.com
+DOMAIN-SUFFIX,userscontent.net
+DOMAIN-SUFFIX,hhneko.xyz
+DOMAIN-KEYWORD,caoiyfaga
+DOMAIN-KEYWORD,fluidplayer
