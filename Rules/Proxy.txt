@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,userscontent.net
 DOMAIN-SUFFIX,hhneko.xyz
 DOMAIN-KEYWORD,caoiyfaga
 DOMAIN-KEYWORD,fluidplayer
+DOMAIN-KEYWORD,buahfancha
