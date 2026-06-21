@@ -7,3 +7,5 @@ DOMAIN-KEYWORD,caoiyfaga
 DOMAIN-KEYWORD,fluidplayer
 DOMAIN-KEYWORD,buahfancha
 DOMAIN-SUFFIX,noones.com
+DOMAIN-SUFFIX,9xbuddy.com
+DOMAIN-SUFFIX,9xbud.com
