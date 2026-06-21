@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,hhneko.xyz
 DOMAIN-KEYWORD,caoiyfaga
 DOMAIN-KEYWORD,fluidplayer
 DOMAIN-KEYWORD,buahfancha
+DOMAIN-SUFFIX,noones.com
