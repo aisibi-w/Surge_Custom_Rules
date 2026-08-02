@@ -9,3 +9,4 @@ DOMAIN-KEYWORD,buahfancha
 DOMAIN-SUFFIX,noones.com
 DOMAIN-KEYWORD,9xbud
 DOMAIN-SUFFIX,ssm.fun
+DOMAIN-SUFFIX,boyfriend.show
