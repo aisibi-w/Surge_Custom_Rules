@@ -13,3 +13,5 @@ DOMAIN-SUFFIX,boyfriend.show
 DOMAIN-SUFFIX,lovact.net
 DOMAIN-SUFFIX,snapplays.net
 DOMAIN-SUFFIX,tabbit.ai
+DOMAIN-SUFFIX,novaxns.one
+DOMAIN-SUFFIX,xns.one
