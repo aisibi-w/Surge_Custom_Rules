@@ -15,3 +15,4 @@ DOMAIN-SUFFIX,snapplays.net
 DOMAIN-SUFFIX,tabbit.ai
 DOMAIN-SUFFIX,novaxns.one
 DOMAIN-SUFFIX,xns.one
+DOMAIN-SUFFIX,upload.cc
