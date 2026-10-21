@@ -17,3 +17,4 @@ DOMAIN-SUFFIX,novaxns.one
 DOMAIN-SUFFIX,xns.one
 DOMAIN-SUFFIX,upload.cc
 DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,googleapis.com
