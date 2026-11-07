@@ -19,3 +19,4 @@ DOMAIN-SUFFIX,upload.cc
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,azmen.com
+DOMAIN-SUFFIX,ahcdn.com
