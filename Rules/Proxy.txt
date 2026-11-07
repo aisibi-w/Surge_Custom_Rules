@@ -20,3 +20,4 @@ DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,azmen.com
 DOMAIN-SUFFIX,ahcdn.com
+DOMAIN-SUFFIX,netfuck.net
