@@ -22,3 +22,4 @@ DOMAIN-SUFFIX,azmen.com
 DOMAIN-SUFFIX,ahcdn.com
 DOMAIN-SUFFIX,netfuck.net
 DOMAIN-SUFFIX,re0.me
+DOMAIN-SUFFIX,scribdassets.com
